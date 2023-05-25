@@ -1,2 +1,3 @@
 # e-vote
-Online Voting Platform
+Front end UI of Online Voting Platform.
+Easily made using HTML, CSS, JS and Bootstarp.
